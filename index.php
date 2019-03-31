@@ -3,11 +3,16 @@
 
 <head>
   <meta charset="utf-8">
-  <title>مياهنا</title>
+  <title>
+    مياهنا
+    ،
+    دراسة احصائية
+  </title>
   <base href="/">
 
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/x-icon" href="./assets/favicon.png">
+
   <link href="./assets/checkbox.css" rel="stylesheet">
 
   <link href="https://fonts.googleapis.com/css?family=Cairo" rel="stylesheet">
@@ -17,10 +22,10 @@
 
 
 
-<link rel="stylesheet" href="styles.fa1e22cde65092aa6db0.css"></head>
+<link rel="stylesheet" href="styles.f64d1e77444dda4bc0a6.css"></head>
 
 <body>
   <app-root></app-root>
-<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.c5dd28b362270c767b34.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="main.ddd8549f0af0b2fa04d9.js"></script></body>
+<script type="text/javascript" src="runtime.26209474bfa8dc87a77c.js"></script><script type="text/javascript" src="es2015-polyfills.c5dd28b362270c767b34.js" nomodule></script><script type="text/javascript" src="polyfills.8bbb231b43165d65d357.js"></script><script type="text/javascript" src="main.119da0f37d36d39e8a09.js"></script></body>
 
 </html>

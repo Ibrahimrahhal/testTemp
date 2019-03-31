@@ -1,0 +1,19 @@
+@font-face {
+  font-family: 'hacenLinerXL';
+  src: url('HacenLinerXL.ttf');
+}
+
+@font-face {
+  font-family: 'hacenTunisiaLT';
+  src: url('HacenTunisiaLt.ttf');
+}
+
+@font-face {
+  font-family: 'hacenTunisiaBold';
+  src: url('HacenTunisiaBold.ttf');
+}
+
+@font-face {
+  font-family: 'hacenLinerPrintLight';
+  src: url('HacenLinerPrintLight.ttf');
+}
